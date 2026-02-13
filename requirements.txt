@@ -1,4 +1,6 @@
 requests
 dnspython
 googlesearch-python
+plotly
+streamlit
 pandas
