@@ -1,0 +1,530 @@
+{
+    "TrustEq_trusteq.de": {
+        "timestamp": "2026-02-08 22:28:11",
+        "people": [],
+        "infra": [
+            {
+                "Software": "Google Workspace",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Google Workspace",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Microsoft Office 365",
+                "Risk": "Low"
+            },
+            {
+                "Software": "SPF Mail Security",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Atlassian Cloud",
+                "Risk": "Medium"
+            },
+            {
+                "Software": "Server: Caddy",
+                "Risk": "Info"
+            },
+            {
+                "Software": "Next.js",
+                "Risk": "Medium"
+            },
+            {
+                "Software": "React Frontend",
+                "Risk": "Low"
+            }
+        ],
+        "code": [],
+        "subdomains": [],
+        "enrichment": {
+            "name": "Trusteq",
+            "description": "TRUSTEQ is a provider of IT transformation, digitalization, cloud solutions, and consulting services from strategy to implementation ....",
+            "employees": "Sch\u00e4tzung via OSINT",
+            "linkedin": "https://www.linkedin.com/company/trusteq"
+        }
+    },
+    "google_google.com": {
+        "timestamp": "2026-02-08 23:13:19",
+        "people": [
+            {
+                "Username": "cpovirk",
+                "Name": "Chris Povirk",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "@google ",
+                "URL": "https://github.com/cpovirk",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "cgruber",
+                "Name": "Christian Edward Jackson-Gruber",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "@phantom",
+                "URL": "https://github.com/cgruber",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "dependabot[bot]",
+                "Name": "dependabot[bot]",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": null,
+                "URL": "https://github.com/apps/dependabot",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "kluever",
+                "Name": "Kurt Alfred Kluever",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "Google, Inc.",
+                "URL": "https://github.com/kluever",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "torquestomp",
+                "Name": "Daniel Ploch",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "Google",
+                "URL": "https://github.com/torquestomp",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "sqrrrl",
+                "Name": "Steve Bazyl",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "Google",
+                "URL": "https://github.com/sqrrrl",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "christhomson",
+                "Name": "Chris Thomson",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": null,
+                "URL": "https://github.com/christhomson",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "sporkmonger",
+                "Name": "Bob Aman",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "@discord",
+                "URL": "https://github.com/sporkmonger",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": NaN,
+                "Name": "Thomas Kurian",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://www.linkedin.com/in/thomas-kurian-469b6219",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Tulsee Doshi",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://www.linkedin.com/in/tulsee-doshi",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Niall MacKenzie",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://www.linkedin.com/in/niallmackenzie",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Dieter Bohn",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://www.linkedin.com/in/dieterbohn",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Darren Mowry",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://www.linkedin.com/in/darren-mowry-06630711",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Melanie Silva",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://au.linkedin.com/in/melspiteri",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Elias Klim",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/eliasklim",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Duong (Sunny) Nguyen",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://www.linkedin.com/in/duong-sunny-nguyen-62280780/",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            }
+        ],
+        "infra": [
+            {
+                "Software": "SPF Mail Security",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Google Workspace",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Google Workspace",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Google Workspace",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Server: gws",
+                "Risk": "Info"
+            }
+        ],
+        "code": [
+            {
+                "repo_name": "truth",
+                "url": "https://github.com/google/truth",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "ruby-openid-apps-discovery",
+                "url": "https://github.com/google/ruby-openid-apps-discovery",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "autoparse",
+                "url": "https://github.com/google/autoparse",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "anvil-build",
+                "url": "https://github.com/google/anvil-build",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "googletv-android-samples",
+                "url": "https://github.com/google/googletv-android-samples",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "ChannelPlate",
+                "url": "https://github.com/google/ChannelPlate",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "GL-Shader-Validator",
+                "url": "https://github.com/google/GL-Shader-Validator",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "qpp",
+                "url": "https://github.com/google/qpp",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "CSP-Validator",
+                "url": "https://github.com/google/CSP-Validator",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "embed-dart-vm",
+                "url": "https://github.com/google/embed-dart-vm",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "module-server",
+                "url": "https://github.com/google/module-server",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "cxx-std-draft",
+                "url": "https://github.com/google/cxx-std-draft",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "filesystem-proposal",
+                "url": "https://github.com/google/filesystem-proposal",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "libcxx",
+                "url": "https://github.com/google/libcxx",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "tracing-framework",
+                "url": "https://github.com/google/tracing-framework",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "namebench",
+                "url": "https://github.com/google/namebench",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "devtoolsExtended",
+                "url": "https://github.com/google/devtoolsExtended",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "sirius",
+                "url": "https://github.com/google/sirius",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "testRunner",
+                "url": "https://github.com/google/testRunner",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "crx2app",
+                "url": "https://github.com/google/crx2app",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "episodes.dart",
+                "url": "https://github.com/google/episodes.dart",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "cpp-netlib",
+                "url": "https://github.com/google/cpp-netlib",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "dagger",
+                "url": "https://github.com/google/dagger",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "ios-webkit-debug-proxy",
+                "url": "https://github.com/google/ios-webkit-debug-proxy",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "google.github.io",
+                "url": "https://github.com/google/google.github.io",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "kratu",
+                "url": "https://github.com/google/kratu",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "build-debian-cloud",
+                "url": "https://github.com/google/build-debian-cloud",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "traceur-compiler",
+                "url": "https://github.com/google/traceur-compiler",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "firmata.py",
+                "url": "https://github.com/google/firmata.py",
+                "risk_score": 10
+            },
+            {
+                "repo_name": "vector_math.dart",
+                "url": "https://github.com/google/vector_math.dart",
+                "risk_score": 10
+            }
+        ],
+        "subdomains": [
+            {
+                "Portal": "vpn.google.com",
+                "Risk": "High (Login Portal exposed)"
+            },
+            {
+                "Portal": "mail.google.com",
+                "Risk": "High (Login Portal exposed)"
+            }
+        ],
+        "enrichment": {
+            "name": "Google",
+            "description": "Google is a multinational technology company specializing in Internet-related services and products, including search engines, online advertising, and software....",
+            "employees": "Sch\u00e4tzung via OSINT",
+            "linkedin": "https://www.linkedin.com/company/google"
+        }
+    },
+    "trusteq_trusteq.de": {
+        "timestamp": "2026-02-08 23:13:52",
+        "people": [
+            {
+                "Username": "martishin",
+                "Name": "Alex",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "Nebius",
+                "URL": "https://github.com/martishin",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": "Simorenarium",
+                "Name": "Jonas Michel",
+                "Status": "\u2705 Verified (Org Member)",
+                "Offizielle_Firma": "TRUSTEQ GmbH",
+                "URL": "https://github.com/Simorenarium",
+                "Source": "GitHub Org",
+                "Quelle": NaN
+            },
+            {
+                "Username": NaN,
+                "Name": "Holger Fink",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/holgerfink",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Felix M\u00fcller",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/felix-mueller-trusteq",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Jonas Br\u00fcgmann \u2013 TRUSTEQ GmbH | LinkedIn",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/jonas-bruegmann",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Zohreh Malekiyan \u2013 TRUSTEQ GmbH | LinkedIn",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/zohreh-malekiyan-1a2253126",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Leonhard Zirus \u2013 IT Security & Software Developer \u2013 TRUSTEQ GmbH",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/leonhard-zirus",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Lea Ferstl \u2013 TRUSTEQ GmbH | LinkedIn",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/lea-ferstl",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Tania Perez Figueroa",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://www.linkedin.com/in/tania-p\u00e9rez-figueroa-mba-8a4aa424/en",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            },
+            {
+                "Username": NaN,
+                "Name": "Clemens Pape",
+                "Status": NaN,
+                "Offizielle_Firma": NaN,
+                "URL": "https://de.linkedin.com/in/clemens-pape/en",
+                "Source": NaN,
+                "Quelle": "DuckDuckGo"
+            }
+        ],
+        "infra": [
+            {
+                "Software": "Microsoft Office 365",
+                "Risk": "Low"
+            },
+            {
+                "Software": "SPF Mail Security",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Google Workspace",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Atlassian Cloud",
+                "Risk": "Medium"
+            },
+            {
+                "Software": "Google Workspace",
+                "Risk": "Low"
+            },
+            {
+                "Software": "Server: Caddy",
+                "Risk": "Info"
+            },
+            {
+                "Software": "Next.js",
+                "Risk": "Medium"
+            },
+            {
+                "Software": "React Frontend",
+                "Risk": "Low"
+            }
+        ],
+        "code": [
+            {
+                "repo_name": "trusteq-ai-testing-backend",
+                "url": "https://github.com/TRUSTEQ/trusteq-ai-testing-backend",
+                "risk_score": 10
+            }
+        ],
+        "subdomains": [],
+        "enrichment": {
+            "name": "Trusteq",
+            "description": "Aug 29, 2025 \u00b7 Explore Trusteq ' s in-depth company profile , including leadership and competitors....",
+            "employees": "Sch\u00e4tzung via OSINT",
+            "linkedin": "https://www.linkedin.com/company/trusteq"
+        }
+    }
+}
